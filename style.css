@@ -4,6 +4,13 @@ body {
     max-width: 960px;
     margin: auto;
 }
+
+
+
+.topLi a:hover {
+    color: #000000;
+    cursor: crosshair;
+}
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
